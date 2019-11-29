@@ -1,0 +1,8 @@
+<!--pages/welcome/welcome.wxml-->
+<view>
+  <image src="/images/avatar.png"></image>
+  <text></text>
+  <view>
+    <text></text>
+  </view>
+</view>
