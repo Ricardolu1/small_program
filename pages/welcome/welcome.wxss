@@ -1,4 +1,6 @@
 /* pages/welcome/welcome.wxss */
+
+
 page{
   background: #b3d4db;
   height: 100%;
@@ -17,12 +19,12 @@ page{
   font-size: 32rpx;
   font-weight: bold;
 }
-.moto{
+.journey{
   font-size: 22rpx;
   font-weight: bold;
   line-height: 80rpx;
 }
-.moto-container{
+.journey-container{
   margin-top: 200rpx;
   border: 1px solid #405f80;
   color: #405f80;
